@@ -5,3 +5,10 @@
     max-width:100%;
     box-sizing:border-box;
 }
+/*end of reset*/
+
+/******general styles*****/
+h1{
+    font-family: 'Lobster', cursive;
+    letter-spacing:7px;
+}
