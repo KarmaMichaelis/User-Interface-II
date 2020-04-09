@@ -9,6 +9,32 @@
 
 /******general styles*****/
 h1{
-    font-family: 'Lobster', cursive;
-    letter-spacing:7px;
+    font-family: 'Dancing Script', cursive;
+    font-size:3rem;
+    
+    
 }
+h2 {
+    font-family: 'Satisfy', cursive;
+    font-size:2rem;
+}
+a{
+    text-decoration: none;
+}
+a, button{
+    font-family: 'Satisfy', cursive;
+font-size: 1rem;  
+}
+body{
+    font-family: 'Nova Cut', cursive;
+
+}
+img{
+    width:30%;
+}
+/*img{
+    width:30%;
+    border-radius: 50%;
+}*/
+/***end of general styles***/
+/***Start of header styles**/
