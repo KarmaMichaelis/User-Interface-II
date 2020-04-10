@@ -39,3 +39,20 @@ img{
 }*/
 /***end of general styles***/
 /***Start of header styles**/
+/*come back and finish style*/
+header{
+    color:rgb(196, 91, 17);
+    height:20vh;
+    background-image: url(https://images.pexels.com/photos/981364/pexels-photo-981364.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260); 
+    
+}
+h1{
+    padding-top:1%;
+}
+
+nav a{
+    color:#DAA520;
+    border:2px solid #3CB371;
+    text-align:center;
+}
+/*end of header styles*/
